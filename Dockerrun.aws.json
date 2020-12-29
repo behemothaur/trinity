@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "djrut/trinity:v1.2-4-gf71abf9",
+    "Name": "801623151649.dkr.ecr.ap-south-1.amazonaws.com/test:latest",
     "Update": "true"
   },
   "Ports": [
